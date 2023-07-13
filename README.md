@@ -1,7 +1,7 @@
 <h1 align="center">Hola soy vaidu</h1>
 <h3 align="center">Me gusta programar y los video juegos</h3>
 
-- Mi servidor de SA-MP [TroutZone RP](http://troutzone-rp.rf.gd/)
+- Mi servidor de SA-MP [Alpha Moile SA-MP](http://troutzone-rp.rf.gd/)
 
 - Mi correo **karolomg297@gmail.com**
 
